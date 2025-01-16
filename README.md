@@ -25,7 +25,6 @@
     <meta name="author" content="ARAK PREDICTION">
     <meta name="distribution" content="global">
     <meta name="publisher" content="ARAK PREDICTION">
-    <meta name="google-site-verification" content="JQuqIXIT8R5NnlJAXL-X2os72I24iBwCV8vooqgLTpI">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
