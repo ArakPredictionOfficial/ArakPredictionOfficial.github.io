@@ -1,4 +1,4 @@
-<head> <meta name="google-site-verification" content="JQuqIXIT8R5NnlJAXL-X2os72I24iBwCV8vooqgLTpI" />
+<head> <meta name="google-site-verification" content="7eM9W_9S8-nL1kBYCx3p8jlo8BIQE9AJaLQTXOUSPW0" />
  <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,maximum-scale=1.0">
     <meta http-equiv="content-language" content="id">
