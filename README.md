@@ -526,15 +526,59 @@
                         </button>
                     </a>
                     <br>
-                  <a href="https://bio.site/arakofficial" target="_blank" rel="noopener noreferrer nofollow"
-                        class="block">LINK DAFTAR 1</a>
-                  <a href="https://linkr.bio/arakofficial" target="_blank"
-                        rel="noopener noreferrer nofollow" class="block">LINK DAFTAR 2</a>
-                 <a href="https://bio.site/arakofficial" target="_blank" rel="noopener noreferrer nofollow"
-                        class="block">LINK LOGIN 1</a>
-                  <a href="https://linkr.bio/arakofficial" target="_blank"
-                        rel="noopener noreferrer nofollow" class="block">LINK LOGIN 2</a>
-            </div>
+                 <a href="https://linkr.bio/arakofficial" target="_blank" rel="noopener noreferrer nofollow">
+                        <button class="btn2">
+                            <strong>LINK DAFTAR 1</strong>
+                            <div id="container-stars">
+                                <div id="stars"></div>
+                            </div>
+                            <div id="glow">
+                                <div class="circle"></div>
+                                <div class="circle"></div>
+                            </div>
+                        </button>
+                    </a>
+                    <br>
+                 <a href="https://linkr.bio/arakofficial" target="_blank" rel="noopener noreferrer nofollow">
+                        <button class="btn2">
+                            <strong>LINK DAFTAR 2</strong>
+                            <div id="container-stars">
+                                <div id="stars"></div>
+                            </div>
+                            <div id="glow">
+                                <div class="circle"></div>
+                                <div class="circle"></div>
+                            </div>
+                        </button>
+                    </a>
+                    <br>
+                <a href="https://linkr.bio/arakofficial" target="_blank" rel="noopener noreferrer nofollow">
+                        <button class="btn2">
+                            <strong>LINK LOGIN 1</strong>
+                            <div id="container-stars">
+                                <div id="stars"></div>
+                            </div>
+                            <div id="glow">
+                                <div class="circle"></div>
+                                <div class="circle"></div>
+                            </div>
+                        </button>
+                    </a>
+                    <br>
+               <a href="https://linkr.bio/arakofficial" target="_blank" rel="noopener noreferrer nofollow">
+                        <button class="btn2">
+                            <strong>LINK LOGIN 2</strong>
+                            <div id="container-stars">
+                                <div id="stars"></div>
+                            </div>
+                            <div id="glow">
+                                <div class="circle"></div>
+                                <div class="circle"></div>
+                            </div>
+                        </button>
+                    </a>
+                    <br>
+                </div>
             <div class="footer">
                 <span style="text-align: center">Copyright 2025 <strong><a
                             href="https://www.facebook.com/Arakprediction">ARAK PREDICTION</a></strong>
